@@ -24,6 +24,10 @@ A simple and elegant digital clock created using HTML, CSS, and JavaScript. This
 
 ## Project Preview
 
-![DigitalClock](https://github.com/user-attachments/assets/45d265a7-7bef-4bc7-966c-e063a7b6bb4e)
+![DigitalClock](https://github.com/user-attachments/assets/bc5838b4-1c58-4bec-9070-31409e259742)
+
+
+
+
 
 
